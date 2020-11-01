@@ -1,4 +1,6 @@
 # verification_code_recognition_bykerasCNN
+验证码识别支持大小写字母+数字识别，文字识别还没做出来，目前只能支持60x160大小的图片识别
+
 
 
 
