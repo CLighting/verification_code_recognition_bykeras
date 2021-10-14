@@ -12,7 +12,7 @@ make_data.py 训练集和测试集数据的生成
 
 
 
-training_code.py 用Keras搭建的CNN模型来训练的，准确率98%
+training_code.py 用Keras训练的神经网络模型，准确率98%
 
 
 
